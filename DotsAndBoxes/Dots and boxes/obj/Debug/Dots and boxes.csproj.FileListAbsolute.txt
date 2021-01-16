@@ -1,0 +1,29 @@
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\bin\Debug\Dots and boxes.exe.config
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\bin\Debug\Dots and boxes.exe
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\bin\Debug\Dots and boxes.pdb
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots and boxes.csprojAssemblyReference.cache
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots_and_boxes.Form1.resources
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots_and_boxes.Properties.Resources.resources
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots and boxes.csproj.GenerateResource.cache
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots and boxes.csproj.CoreCompileInputs.cache
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots and boxes.exe
+C:\Users\chavd\OneDrive\Desktop\Caa\Dots and boxes\Dots and boxes\obj\Debug\Dots and boxes.pdb
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots and boxes.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots_and_boxes.Form1.resources
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots_and_boxes.Properties.Resources.resources
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots and boxes.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots and boxes.exe
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\obj\Debug\Dots and boxes.pdb
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\bin\Debug\Dots and boxes.exe.config
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\bin\Debug\Dots and boxes.exe
+C:\Users\Вероника\Desktop\DotsAndBoxes-master\Dots and boxes\bin\Debug\Dots and boxes.pdb
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\bin\Debug\Dots and boxes.exe.config
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\bin\Debug\Dots and boxes.exe
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\bin\Debug\Dots and boxes.pdb
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots and boxes.csprojAssemblyReference.cache
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots_and_boxes.Form1.resources
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots_and_boxes.Properties.Resources.resources
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots and boxes.csproj.GenerateResource.cache
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots and boxes.csproj.CoreCompileInputs.cache
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots and boxes.exe
+C:\Users\chavd\OneDrive\Documents\GitHub\DotsAndBoxes\DotsAndBoxes\Dots and boxes\obj\Debug\Dots and boxes.pdb
